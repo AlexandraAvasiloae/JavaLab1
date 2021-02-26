@@ -47,16 +47,16 @@ Process finished with exit code 0
 OUTPUT:
 
 1. 
-C:\Users\Alexandra\IdeaProjects\FirstJava\src>javac Graph.java
+C:\Users\Alexandra\IdeaProjects\FirstJava\src>javac Optional.Graph.java
 
-C:\Users\Alexandra\IdeaProjects\FirstJava\src>java Graph
+C:\Users\Alexandra\IdeaProjects\FirstJava\src>java Optional.Graph
 -1
 Specify the argument!
 
 2. n=3
-C:\Users\Alexandra\IdeaProjects\FirstJava\src>javac Graph.java
+C:\Users\Alexandra\IdeaProjects\FirstJava\src>javac Optional.Graph.java
 
-C:\Users\Alexandra\IdeaProjects\FirstJava\src>java Graph 3
+C:\Users\Alexandra\IdeaProjects\FirstJava\src>java Optional.Graph 3
 The graph is connected
 The adjacency matrix of the graph is:
 [0, 1, 1]
@@ -68,7 +68,7 @@ The adjacency matrix of the partial tree is:
 [0, 1, 0]
 
 3. n=10
-C:\Users\Alexandra\IdeaProjects\FirstJava\src>java Graph 10
+C:\Users\Alexandra\IdeaProjects\FirstJava\src>java Optional.Graph 10
 The graph is not connected
 The graph has 2 connected components
 The adjacency matrix of the graph is:
